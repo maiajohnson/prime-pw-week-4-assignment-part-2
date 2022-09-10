@@ -5,3 +5,8 @@ header {
 body {
     margin: 0px;
 }
+
+div {
+    background-color: rgb(227, 134, 80);
+    color: rgb(105, 31, 0);
+}
