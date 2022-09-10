@@ -10,6 +10,7 @@ div {
     background-color: rgb(227, 134, 80);
     color: rgb(105, 31, 0);
     text-align: center;
+    text-decoration: underline;
 }
 
 img {
@@ -21,4 +22,5 @@ h3 {
     background-color: rgb(41, 203, 41);
     color: rgb(9, 90, 9);
     text-align: center;
+    text-decoration: underline;
 }
